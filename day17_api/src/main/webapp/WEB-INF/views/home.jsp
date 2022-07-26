@@ -12,7 +12,7 @@
 
 <h1>day17 - API</h1>
 <hr>
-
+<!-- github용 주석입니다. -->
 <ul>
 	<li><a href="${cpath }/ex01">ex01 - 부산 축제 정보</a></li>
 	<li><a href="${cpath }/ex02">ex02 - 부산 맛집 정보</a></li>
