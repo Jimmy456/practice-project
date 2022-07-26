@@ -1,0 +1,69 @@
+@charset "utf-8";
+html {
+	scroll-behavior: smooth;
+}
+body {
+	margin: 0;
+}
+a {
+	text-decoration: none;
+	color: inherit;	
+}
+a:hover {
+	text-decoration: underline;
+}
+h1 {
+	text-align: center;
+}
+.item {
+	border: 1px solid #dadada;
+	width: 500px;
+	padding: 10px;
+	margin: 10px auto;	
+}
+.item > .title {
+	font-weight: bold;
+	font-size: 1.2em;
+	float: left;
+}
+.item > .writer,
+.item > .writeDate {
+	float: right;
+	padding-right: 10px;
+}
+.item > .content {
+	clear: both;	/* 이전 부모/형제 노드에서 상속받는 float 속성을 모두 제거한다 */
+	background-color: #f5f6f7;
+	padding: 10px;
+	margin: 20px 0;
+	min-height: 100px;
+}
+.item > .menu {
+	display: flex;
+	justify-content: flex-end;
+}
+.item > .menu > button {
+	margin-left: 10px;
+}
+#remocon {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	background-color: black;
+	color: white;	
+}
+#remocon > div {
+	padding: 10px;
+	border: 1px solid #dadada;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+

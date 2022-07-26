@@ -1,0 +1,7138 @@
+<response>
+<header>
+<resultCode>00</resultCode>
+<resultMsg>NORMAL SERVICE.</resultMsg>
+</header>
+<body>
+<items>
+<item>
+<createDt>2022-07-25 09:13:26.82</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11789</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>46</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>46</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18325</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.82</createDt>
+<deathCnt>187</deathCnt>
+<defCnt>259309</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1207</incDec>
+<localOccCnt>1193</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>38316</qurRate>
+<seq>18324</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.82</createDt>
+<deathCnt>1284</deathCnt>
+<defCnt>1150966</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1947</incDec>
+<localOccCnt>1926</localOccCnt>
+<overFlowCnt>21</overFlowCnt>
+<qurRate>34728</qurRate>
+<seq>18323</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.82</createDt>
+<deathCnt>1450</deathCnt>
+<defCnt>828393</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1771</incDec>
+<localOccCnt>1739</localOccCnt>
+<overFlowCnt>32</overFlowCnt>
+<qurRate>31538</qurRate>
+<seq>18322</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.82</createDt>
+<deathCnt>501</deathCnt>
+<defCnt>622519</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>992</incDec>
+<localOccCnt>987</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>33965</qurRate>
+<seq>18321</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.819</createDt>
+<deathCnt>891</deathCnt>
+<defCnt>631831</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>1216</incDec>
+<localOccCnt>1200</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>35360</qurRate>
+<seq>18320</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.819</createDt>
+<deathCnt>982</deathCnt>
+<defCnt>756458</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1401</incDec>
+<localOccCnt>1382</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>35694</qurRate>
+<seq>18319</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.819</createDt>
+<deathCnt>738</deathCnt>
+<defCnt>586620</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1259</incDec>
+<localOccCnt>1241</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>36723</qurRate>
+<seq>18318</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.819</createDt>
+<deathCnt>879</deathCnt>
+<defCnt>550119</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1066</incDec>
+<localOccCnt>1058</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>35757</qurRate>
+<seq>18317</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.818</createDt>
+<deathCnt>6343</deathCnt>
+<defCnt>5231497</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>10903</incDec>
+<localOccCnt>10876</localOccCnt>
+<overFlowCnt>27</overFlowCnt>
+<qurRate>38565</qurRate>
+<seq>18316</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.818</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>147414</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>232</incDec>
+<localOccCnt>224</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>39639</qurRate>
+<seq>18315</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.818</createDt>
+<deathCnt>344</deathCnt>
+<defCnt>410231</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>702</incDec>
+<localOccCnt>702</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>36576</qurRate>
+<seq>18314</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.818</createDt>
+<deathCnt>719</deathCnt>
+<defCnt>541396</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1251</incDec>
+<localOccCnt>1233</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>37280</qurRate>
+<seq>18313</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.818</createDt>
+<deathCnt>573</deathCnt>
+<defCnt>556754</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1106</incDec>
+<localOccCnt>1080</localOccCnt>
+<overFlowCnt>26</overFlowCnt>
+<qurRate>38620</qurRate>
+<seq>18312</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.817</createDt>
+<deathCnt>1416</deathCnt>
+<defCnt>1131698</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>1948</incDec>
+<localOccCnt>1880</localOccCnt>
+<overFlowCnt>68</overFlowCnt>
+<qurRate>38384</qurRate>
+<seq>18311</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.817</createDt>
+<deathCnt>1359</deathCnt>
+<defCnt>803115</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1432</incDec>
+<localOccCnt>1423</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>33668</qurRate>
+<seq>18310</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.817</createDt>
+<deathCnt>2228</deathCnt>
+<defCnt>1159131</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1437</incDec>
+<localOccCnt>1431</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>34597</qurRate>
+<seq>18309</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.817</createDt>
+<deathCnt>4943</deathCnt>
+<defCnt>3868256</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>5967</incDec>
+<localOccCnt>5965</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>40678</qurRate>
+<seq>18308</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-25 09:13:26.816</createDt>
+<deathCnt>24890</deathCnt>
+<defCnt>19247496</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>35883</incDec>
+<localOccCnt>35540</localOccCnt>
+<overFlowCnt>343</overFlowCnt>
+<qurRate>37273</qurRate>
+<seq>18307</seq>
+<stdDay>2022년 07월 25일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.515</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11743</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>11</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>1735</qurRate>
+<seq>18306</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.514</createDt>
+<deathCnt>187</deathCnt>
+<defCnt>258102</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1678</incDec>
+<localOccCnt>1665</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>38138</qurRate>
+<seq>18305</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.514</createDt>
+<deathCnt>1283</deathCnt>
+<defCnt>1149019</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>3517</incDec>
+<localOccCnt>3503</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>34670</qurRate>
+<seq>18304</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.514</createDt>
+<deathCnt>1448</deathCnt>
+<defCnt>826622</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>3005</incDec>
+<localOccCnt>2966</localOccCnt>
+<overFlowCnt>39</overFlowCnt>
+<qurRate>31471</qurRate>
+<seq>18303</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.514</createDt>
+<deathCnt>501</deathCnt>
+<defCnt>621527</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>1776</incDec>
+<localOccCnt>1760</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33911</qurRate>
+<seq>18302</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.513</createDt>
+<deathCnt>891</deathCnt>
+<defCnt>630615</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>2354</incDec>
+<localOccCnt>2334</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>35292</qurRate>
+<seq>18301</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.513</createDt>
+<deathCnt>982</deathCnt>
+<defCnt>755057</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>2645</incDec>
+<localOccCnt>2620</localOccCnt>
+<overFlowCnt>25</overFlowCnt>
+<qurRate>35628</qurRate>
+<seq>18300</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.513</createDt>
+<deathCnt>738</deathCnt>
+<defCnt>585361</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>2257</incDec>
+<localOccCnt>2238</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>36644</qurRate>
+<seq>18299</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.513</createDt>
+<deathCnt>879</deathCnt>
+<defCnt>549053</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1895</incDec>
+<localOccCnt>1882</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>35688</qurRate>
+<seq>18298</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.512</createDt>
+<deathCnt>6340</deathCnt>
+<defCnt>5220594</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>17297</incDec>
+<localOccCnt>17273</localOccCnt>
+<overFlowCnt>24</overFlowCnt>
+<qurRate>38484</qurRate>
+<seq>18297</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.512</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>147182</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>585</incDec>
+<localOccCnt>582</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>39576</qurRate>
+<seq>18296</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.512</createDt>
+<deathCnt>344</deathCnt>
+<defCnt>409529</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1984</incDec>
+<localOccCnt>1978</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>36513</qurRate>
+<seq>18295</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.512</createDt>
+<deathCnt>719</deathCnt>
+<defCnt>540145</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1986</incDec>
+<localOccCnt>1977</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>37194</qurRate>
+<seq>18294</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.511</createDt>
+<deathCnt>572</deathCnt>
+<defCnt>555648</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1670</incDec>
+<localOccCnt>1636</localOccCnt>
+<overFlowCnt>34</overFlowCnt>
+<qurRate>38544</qurRate>
+<seq>18293</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.511</createDt>
+<deathCnt>1415</deathCnt>
+<defCnt>1129750</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>3490</incDec>
+<localOccCnt>3425</localOccCnt>
+<overFlowCnt>65</overFlowCnt>
+<qurRate>38318</qurRate>
+<seq>18292</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.511</createDt>
+<deathCnt>1357</deathCnt>
+<defCnt>801683</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1923</incDec>
+<localOccCnt>1907</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33608</qurRate>
+<seq>18291</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.511</createDt>
+<deathCnt>2226</deathCnt>
+<defCnt>1157694</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>3551</incDec>
+<localOccCnt>3548</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34554</qurRate>
+<seq>18290</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.51</createDt>
+<deathCnt>4938</deathCnt>
+<defCnt>3862289</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>13809</incDec>
+<localOccCnt>13806</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>40615</qurRate>
+<seq>18289</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-24 09:09:59.51</createDt>
+<deathCnt>24873</deathCnt>
+<defCnt>19211613</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>65433</incDec>
+<localOccCnt>65100</localOccCnt>
+<overFlowCnt>333</overFlowCnt>
+<qurRate>37204</qurRate>
+<seq>18288</seq>
+<stdDay>2022년 07월 24일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.123</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11732</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>33</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>33</overFlowCnt>
+<qurRate>1734</qurRate>
+<seq>18287</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.122</createDt>
+<deathCnt>187</deathCnt>
+<defCnt>256424</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1589</incDec>
+<localOccCnt>1580</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>37890</qurRate>
+<seq>18286</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.122</createDt>
+<deathCnt>1282</deathCnt>
+<defCnt>1145502</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>3778</incDec>
+<localOccCnt>3763</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>34564</qurRate>
+<seq>18285</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.122</createDt>
+<deathCnt>1448</deathCnt>
+<defCnt>823617</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>2943</incDec>
+<localOccCnt>2931</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>31357</qurRate>
+<seq>18284</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.122</createDt>
+<deathCnt>501</deathCnt>
+<defCnt>619751</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>1748</incDec>
+<localOccCnt>1735</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>33814</qurRate>
+<seq>18283</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.122</createDt>
+<deathCnt>891</deathCnt>
+<defCnt>628261</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>2176</incDec>
+<localOccCnt>2163</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>35160</qurRate>
+<seq>18282</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.121</createDt>
+<deathCnt>980</deathCnt>
+<defCnt>752412</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>2676</incDec>
+<localOccCnt>2659</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>35504</qurRate>
+<seq>18281</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.121</createDt>
+<deathCnt>735</deathCnt>
+<defCnt>583104</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>2140</incDec>
+<localOccCnt>2125</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>36503</qurRate>
+<seq>18280</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.121</createDt>
+<deathCnt>879</deathCnt>
+<defCnt>547158</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>2030</incDec>
+<localOccCnt>2021</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>35565</qurRate>
+<seq>18279</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.121</createDt>
+<deathCnt>6334</deathCnt>
+<defCnt>5203297</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>18380</incDec>
+<localOccCnt>18338</localOccCnt>
+<overFlowCnt>42</overFlowCnt>
+<qurRate>38357</qurRate>
+<seq>18278</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.12</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>146597</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>493</incDec>
+<localOccCnt>486</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>39419</qurRate>
+<seq>18277</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.12</createDt>
+<deathCnt>344</deathCnt>
+<defCnt>407545</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1865</incDec>
+<localOccCnt>1863</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>36336</qurRate>
+<seq>18276</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.12</createDt>
+<deathCnt>719</deathCnt>
+<defCnt>538159</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1976</incDec>
+<localOccCnt>1960</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>37057</qurRate>
+<seq>18275</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.119</createDt>
+<deathCnt>572</deathCnt>
+<defCnt>553978</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1634</incDec>
+<localOccCnt>1612</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>38428</qurRate>
+<seq>18274</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.119</createDt>
+<deathCnt>1415</deathCnt>
+<defCnt>1126260</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>3759</incDec>
+<localOccCnt>3710</localOccCnt>
+<overFlowCnt>49</overFlowCnt>
+<qurRate>38199</qurRate>
+<seq>18273</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.119</createDt>
+<deathCnt>1357</deathCnt>
+<defCnt>799760</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>2559</incDec>
+<localOccCnt>2550</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>33527</qurRate>
+<seq>18272</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.119</createDt>
+<deathCnt>2223</deathCnt>
+<defCnt>1154143</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>3942</incDec>
+<localOccCnt>3937</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>34448</qurRate>
+<seq>18271</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.118</createDt>
+<deathCnt>4935</deathCnt>
+<defCnt>3848480</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>14830</incDec>
+<localOccCnt>14825</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>40470</qurRate>
+<seq>18270</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-23 09:14:20.118</createDt>
+<deathCnt>24855</deathCnt>
+<defCnt>19146180</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>68551</incDec>
+<localOccCnt>68258</localOccCnt>
+<overFlowCnt>293</overFlowCnt>
+<qurRate>37077</qurRate>
+<seq>18269</seq>
+<stdDay>2022년 07월 23일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.4</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11699</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>25</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>25</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18268</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.4</createDt>
+<deathCnt>187</deathCnt>
+<defCnt>254837</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1471</incDec>
+<localOccCnt>1457</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>37656</qurRate>
+<seq>18267</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.399</createDt>
+<deathCnt>1276</deathCnt>
+<defCnt>1141724</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>3564</incDec>
+<localOccCnt>3542</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>34450</qurRate>
+<seq>18266</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.399</createDt>
+<deathCnt>1447</deathCnt>
+<defCnt>820674</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>2900</incDec>
+<localOccCnt>2882</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>31245</qurRate>
+<seq>18265</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.399</createDt>
+<deathCnt>501</deathCnt>
+<defCnt>618004</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>1631</incDec>
+<localOccCnt>1621</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>33719</qurRate>
+<seq>18264</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.399</createDt>
+<deathCnt>891</deathCnt>
+<defCnt>626085</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>2257</incDec>
+<localOccCnt>2239</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>35038</qurRate>
+<seq>18263</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.399</createDt>
+<deathCnt>978</deathCnt>
+<defCnt>749736</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>2641</incDec>
+<localOccCnt>2627</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>35377</qurRate>
+<seq>18262</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.398</createDt>
+<deathCnt>734</deathCnt>
+<defCnt>580964</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>2169</incDec>
+<localOccCnt>2151</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>36369</qurRate>
+<seq>18261</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.398</createDt>
+<deathCnt>879</deathCnt>
+<defCnt>545128</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>2140</incDec>
+<localOccCnt>2125</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>35433</qurRate>
+<seq>18260</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.398</createDt>
+<deathCnt>6324</deathCnt>
+<defCnt>5184927</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>18822</incDec>
+<localOccCnt>18784</localOccCnt>
+<overFlowCnt>38</overFlowCnt>
+<qurRate>38222</qurRate>
+<seq>18259</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.398</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>146106</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>528</incDec>
+<localOccCnt>523</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>39287</qurRate>
+<seq>18258</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.398</createDt>
+<deathCnt>344</deathCnt>
+<defCnt>405680</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1871</incDec>
+<localOccCnt>1869</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>36170</qurRate>
+<seq>18257</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.397</createDt>
+<deathCnt>718</deathCnt>
+<defCnt>536186</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1843</incDec>
+<localOccCnt>1825</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>36921</qurRate>
+<seq>18256</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.397</createDt>
+<deathCnt>570</deathCnt>
+<defCnt>552344</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1597</incDec>
+<localOccCnt>1573</localOccCnt>
+<overFlowCnt>24</overFlowCnt>
+<qurRate>38314</qurRate>
+<seq>18255</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.397</createDt>
+<deathCnt>1414</deathCnt>
+<defCnt>1122504</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>3710</incDec>
+<localOccCnt>3657</localOccCnt>
+<overFlowCnt>53</overFlowCnt>
+<qurRate>38072</qurRate>
+<seq>18254</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.397</createDt>
+<deathCnt>1357</deathCnt>
+<defCnt>797201</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>2287</incDec>
+<localOccCnt>2271</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33420</qurRate>
+<seq>18253</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.396</createDt>
+<deathCnt>2221</deathCnt>
+<defCnt>1150202</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>3797</incDec>
+<localOccCnt>3793</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>34330</qurRate>
+<seq>18252</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.396</createDt>
+<deathCnt>4931</deathCnt>
+<defCnt>3833658</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>15379</incDec>
+<localOccCnt>15370</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>40314</qurRate>
+<seq>18251</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-22 09:02:41.396</createDt>
+<deathCnt>24825</deathCnt>
+<defCnt>19077659</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>68632</incDec>
+<localOccCnt>68309</localOccCnt>
+<overFlowCnt>323</overFlowCnt>
+<qurRate>36944</qurRate>
+<seq>18250</seq>
+<stdDay>2022년 07월 22일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.967</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11674</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>21</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>21</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18249</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.967</createDt>
+<deathCnt>186</deathCnt>
+<defCnt>253367</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1601</incDec>
+<localOccCnt>1572</localOccCnt>
+<overFlowCnt>29</overFlowCnt>
+<qurRate>37438</qurRate>
+<seq>18248</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.967</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1138162</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>3479</incDec>
+<localOccCnt>3463</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>34342</qurRate>
+<seq>18247</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.966</createDt>
+<deathCnt>1447</deathCnt>
+<defCnt>817793</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>2829</incDec>
+<localOccCnt>2809</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>31135</qurRate>
+<seq>18246</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.966</createDt>
+<deathCnt>498</deathCnt>
+<defCnt>616376</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>1694</incDec>
+<localOccCnt>1686</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>33630</qurRate>
+<seq>18245</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.966</createDt>
+<deathCnt>889</deathCnt>
+<defCnt>623833</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>2185</incDec>
+<localOccCnt>2166</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>34912</qurRate>
+<seq>18244</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.966</createDt>
+<deathCnt>977</deathCnt>
+<defCnt>747095</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>2638</incDec>
+<localOccCnt>2632</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>35253</qurRate>
+<seq>18243</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.965</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>578795</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1893</incDec>
+<localOccCnt>1881</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>36233</qurRate>
+<seq>18242</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.965</createDt>
+<deathCnt>878</deathCnt>
+<defCnt>542988</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1993</incDec>
+<localOccCnt>1978</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>35294</qurRate>
+<seq>18241</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.965</createDt>
+<deathCnt>6313</deathCnt>
+<defCnt>5166113</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>19503</incDec>
+<localOccCnt>19480</localOccCnt>
+<overFlowCnt>23</overFlowCnt>
+<qurRate>38083</qurRate>
+<seq>18240</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.965</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>145578</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>492</incDec>
+<localOccCnt>488</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>39145</qurRate>
+<seq>18239</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.965</createDt>
+<deathCnt>344</deathCnt>
+<defCnt>403810</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>2020</incDec>
+<localOccCnt>2014</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>36003</qurRate>
+<seq>18238</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.964</createDt>
+<deathCnt>716</deathCnt>
+<defCnt>534343</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>2029</incDec>
+<localOccCnt>2012</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>36794</qurRate>
+<seq>18237</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.964</createDt>
+<deathCnt>570</deathCnt>
+<defCnt>550747</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1650</incDec>
+<localOccCnt>1628</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>38204</qurRate>
+<seq>18236</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.964</createDt>
+<deathCnt>1414</deathCnt>
+<defCnt>1118802</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>3939</incDec>
+<localOccCnt>3863</localOccCnt>
+<overFlowCnt>76</overFlowCnt>
+<qurRate>37946</qurRate>
+<seq>18235</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.964</createDt>
+<deathCnt>1356</deathCnt>
+<defCnt>794914</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>2405</incDec>
+<localOccCnt>2391</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>33324</qurRate>
+<seq>18234</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.963</createDt>
+<deathCnt>2219</deathCnt>
+<defCnt>1146406</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>4129</incDec>
+<localOccCnt>4125</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>34217</qurRate>
+<seq>18233</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.963</createDt>
+<deathCnt>4927</deathCnt>
+<defCnt>3818284</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>16670</incDec>
+<localOccCnt>16662</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>40152</qurRate>
+<seq>18232</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-21 08:59:27.963</createDt>
+<deathCnt>24794</deathCnt>
+<defCnt>19009080</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>71170</incDec>
+<localOccCnt>70850</localOccCnt>
+<overFlowCnt>320</overFlowCnt>
+<qurRate>36812</qurRate>
+<seq>18231</seq>
+<stdDay>2022년 07월 21일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.546</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11653</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>15</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18230</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.546</createDt>
+<deathCnt>186</deathCnt>
+<defCnt>251766</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1940</incDec>
+<localOccCnt>1926</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>37202</qurRate>
+<seq>18229</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.546</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1134684</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>3846</incDec>
+<localOccCnt>3824</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>34237</qurRate>
+<seq>18228</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.546</createDt>
+<deathCnt>1445</deathCnt>
+<defCnt>814967</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>3149</incDec>
+<localOccCnt>3112</localOccCnt>
+<overFlowCnt>37</overFlowCnt>
+<qurRate>31027</qurRate>
+<seq>18227</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.545</createDt>
+<deathCnt>495</deathCnt>
+<defCnt>614682</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>1604</incDec>
+<localOccCnt>1593</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>33538</qurRate>
+<seq>18226</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.545</createDt>
+<deathCnt>889</deathCnt>
+<defCnt>621648</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>2200</incDec>
+<localOccCnt>2179</localOccCnt>
+<overFlowCnt>21</overFlowCnt>
+<qurRate>34790</qurRate>
+<seq>18225</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.545</createDt>
+<deathCnt>976</deathCnt>
+<defCnt>744457</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>2865</incDec>
+<localOccCnt>2845</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>35128</qurRate>
+<seq>18224</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.545</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>576902</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>2210</incDec>
+<localOccCnt>2187</localOccCnt>
+<overFlowCnt>23</overFlowCnt>
+<qurRate>36114</qurRate>
+<seq>18223</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.545</createDt>
+<deathCnt>878</deathCnt>
+<defCnt>540995</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>2204</incDec>
+<localOccCnt>2186</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>35164</qurRate>
+<seq>18222</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.544</createDt>
+<deathCnt>6309</deathCnt>
+<defCnt>5146619</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>21362</incDec>
+<localOccCnt>21318</localOccCnt>
+<overFlowCnt>44</overFlowCnt>
+<qurRate>37939</qurRate>
+<seq>18221</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.544</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>145086</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>522</incDec>
+<localOccCnt>504</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>39013</qurRate>
+<seq>18220</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.544</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>401790</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>2106</incDec>
+<localOccCnt>2100</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>35823</qurRate>
+<seq>18219</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.544</createDt>
+<deathCnt>716</deathCnt>
+<defCnt>532314</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>2059</incDec>
+<localOccCnt>2028</localOccCnt>
+<overFlowCnt>31</overFlowCnt>
+<qurRate>36654</qurRate>
+<seq>18218</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.544</createDt>
+<deathCnt>570</deathCnt>
+<defCnt>549098</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1723</incDec>
+<localOccCnt>1694</localOccCnt>
+<overFlowCnt>29</overFlowCnt>
+<qurRate>38089</qurRate>
+<seq>18217</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.543</createDt>
+<deathCnt>1414</deathCnt>
+<defCnt>1114902</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>4412</incDec>
+<localOccCnt>4324</localOccCnt>
+<overFlowCnt>88</overFlowCnt>
+<qurRate>37814</qurRate>
+<seq>18216</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.543</createDt>
+<deathCnt>1355</deathCnt>
+<defCnt>792509</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>2573</incDec>
+<localOccCnt>2557</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33223</qurRate>
+<seq>18215</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.543</createDt>
+<deathCnt>2218</deathCnt>
+<defCnt>1142277</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>4413</incDec>
+<localOccCnt>4407</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>34094</qurRate>
+<seq>18214</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.543</createDt>
+<deathCnt>4923</deathCnt>
+<defCnt>3801622</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>17199</incDec>
+<localOccCnt>17189</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>39977</qurRate>
+<seq>18213</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-20 09:10:48.542</createDt>
+<deathCnt>24777</deathCnt>
+<defCnt>18937971</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>76402</incDec>
+<localOccCnt>75973</localOccCnt>
+<overFlowCnt>429</overFlowCnt>
+<qurRate>36674</qurRate>
+<seq>18212</seq>
+<stdDay>2022년 07월 20일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.974</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11638</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>28</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>28</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18211</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.974</createDt>
+<deathCnt>186</deathCnt>
+<defCnt>249826</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1221</incDec>
+<localOccCnt>1214</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>36915</qurRate>
+<seq>18210</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.974</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1130838</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>3970</incDec>
+<localOccCnt>3944</localOccCnt>
+<overFlowCnt>26</overFlowCnt>
+<qurRate>34121</qurRate>
+<seq>18209</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.974</createDt>
+<deathCnt>1444</deathCnt>
+<defCnt>811818</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>2218</incDec>
+<localOccCnt>2203</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>30907</qurRate>
+<seq>18208</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.973</createDt>
+<deathCnt>495</deathCnt>
+<defCnt>613080</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>1658</incDec>
+<localOccCnt>1649</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>33450</qurRate>
+<seq>18207</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.973</createDt>
+<deathCnt>889</deathCnt>
+<defCnt>619449</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>2095</incDec>
+<localOccCnt>2084</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>34667</qurRate>
+<seq>18206</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.973</createDt>
+<deathCnt>973</deathCnt>
+<defCnt>741592</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>2756</incDec>
+<localOccCnt>2729</localOccCnt>
+<overFlowCnt>27</overFlowCnt>
+<qurRate>34993</qurRate>
+<seq>18205</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.973</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>574694</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1987</incDec>
+<localOccCnt>1975</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>35976</qurRate>
+<seq>18204</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.973</createDt>
+<deathCnt>878</deathCnt>
+<defCnt>538791</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>2009</incDec>
+<localOccCnt>2006</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>35021</qurRate>
+<seq>18203</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.972</createDt>
+<deathCnt>6305</deathCnt>
+<defCnt>5125263</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>20100</incDec>
+<localOccCnt>20083</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>37782</qurRate>
+<seq>18202</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.972</createDt>
+<deathCnt>37</deathCnt>
+<defCnt>144564</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>559</incDec>
+<localOccCnt>551</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>38872</qurRate>
+<seq>18201</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.972</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>399684</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>2068</incDec>
+<localOccCnt>2066</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>35635</qurRate>
+<seq>18200</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.972</createDt>
+<deathCnt>715</deathCnt>
+<defCnt>530255</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1954</incDec>
+<localOccCnt>1926</localOccCnt>
+<overFlowCnt>28</overFlowCnt>
+<qurRate>36513</qurRate>
+<seq>18199</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.972</createDt>
+<deathCnt>570</deathCnt>
+<defCnt>547375</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>1368</incDec>
+<localOccCnt>1348</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>37970</qurRate>
+<seq>18198</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.971</createDt>
+<deathCnt>1413</deathCnt>
+<defCnt>1110491</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>4238</incDec>
+<localOccCnt>4124</localOccCnt>
+<overFlowCnt>114</overFlowCnt>
+<qurRate>37665</qurRate>
+<seq>18197</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.971</createDt>
+<deathCnt>1355</deathCnt>
+<defCnt>789938</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>2423</incDec>
+<localOccCnt>2412</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>33115</qurRate>
+<seq>18196</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.971</createDt>
+<deathCnt>2218</deathCnt>
+<defCnt>1137865</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>4892</incDec>
+<localOccCnt>4884</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>33962</qurRate>
+<seq>18195</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.971</createDt>
+<deathCnt>4921</deathCnt>
+<defCnt>3784432</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>18038</incDec>
+<localOccCnt>18033</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>39797</qurRate>
+<seq>18194</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-19 09:09:13.97</createDt>
+<deathCnt>24765</deathCnt>
+<defCnt>18861593</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>73582</incDec>
+<localOccCnt>73231</localOccCnt>
+<overFlowCnt>351</overFlowCnt>
+<qurRate>36526</qurRate>
+<seq>18193</seq>
+<stdDay>2022년 07월 19일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.854</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11610</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>32</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>32</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18192</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.854</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>248606</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>832</incDec>
+<localOccCnt>819</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>36735</qurRate>
+<seq>18191</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.853</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1126868</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1164</incDec>
+<localOccCnt>1138</localOccCnt>
+<overFlowCnt>26</overFlowCnt>
+<qurRate>34001</qurRate>
+<seq>18190</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.853</createDt>
+<deathCnt>1444</deathCnt>
+<defCnt>809601</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1068</incDec>
+<localOccCnt>1049</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>30823</qurRate>
+<seq>18189</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.852</createDt>
+<deathCnt>495</deathCnt>
+<defCnt>611422</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>547</incDec>
+<localOccCnt>540</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>33360</qurRate>
+<seq>18188</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.852</createDt>
+<deathCnt>889</deathCnt>
+<defCnt>617357</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>683</incDec>
+<localOccCnt>672</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>34550</qurRate>
+<seq>18187</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.851</createDt>
+<deathCnt>971</deathCnt>
+<defCnt>738836</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>982</incDec>
+<localOccCnt>969</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>34863</qurRate>
+<seq>18186</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.851</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>572708</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>717</incDec>
+<localOccCnt>702</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>35852</qurRate>
+<seq>18185</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.85</createDt>
+<deathCnt>878</deathCnt>
+<defCnt>536782</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>678</incDec>
+<localOccCnt>668</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>34890</qurRate>
+<seq>18184</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.85</createDt>
+<deathCnt>6300</deathCnt>
+<defCnt>5105171</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>8268</incDec>
+<localOccCnt>8241</localOccCnt>
+<overFlowCnt>27</overFlowCnt>
+<qurRate>37634</qurRate>
+<seq>18183</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.849</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>144007</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>269</incDec>
+<localOccCnt>264</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>38722</qurRate>
+<seq>18182</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.849</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>397617</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>609</incDec>
+<localOccCnt>608</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>35451</qurRate>
+<seq>18181</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.848</createDt>
+<deathCnt>715</deathCnt>
+<defCnt>528301</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>758</incDec>
+<localOccCnt>749</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>36378</qurRate>
+<seq>18180</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.848</createDt>
+<deathCnt>570</deathCnt>
+<defCnt>546007</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>580</incDec>
+<localOccCnt>557</localOccCnt>
+<overFlowCnt>23</overFlowCnt>
+<qurRate>37875</qurRate>
+<seq>18179</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.847</createDt>
+<deathCnt>1412</deathCnt>
+<defCnt>1106259</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>1944</incDec>
+<localOccCnt>1857</localOccCnt>
+<overFlowCnt>87</overFlowCnt>
+<qurRate>37521</qurRate>
+<seq>18178</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.847</createDt>
+<deathCnt>1355</deathCnt>
+<defCnt>787517</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1022</incDec>
+<localOccCnt>1008</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>33014</qurRate>
+<seq>18177</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.846</createDt>
+<deathCnt>2216</deathCnt>
+<defCnt>1132975</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1250</incDec>
+<localOccCnt>1247</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>33816</qurRate>
+<seq>18176</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.846</createDt>
+<deathCnt>4921</deathCnt>
+<defCnt>3766412</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>4896</incDec>
+<localOccCnt>4892</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>39607</qurRate>
+<seq>18175</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-18 09:14:42.845</createDt>
+<deathCnt>24753</deathCnt>
+<defCnt>18788056</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>26299</incDec>
+<localOccCnt>25980</localOccCnt>
+<overFlowCnt>319</overFlowCnt>
+<qurRate>36384</qurRate>
+<seq>18174</seq>
+<stdDay>2022년 07월 18일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.834</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11578</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>35</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>35</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18173</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.833</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>247774</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>1033</incDec>
+<localOccCnt>1023</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>36727</qurRate>
+<seq>18172</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.833</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1125704</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>2231</incDec>
+<localOccCnt>2209</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>33702</qurRate>
+<seq>18171</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.832</createDt>
+<deathCnt>1444</deathCnt>
+<defCnt>808533</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1683</incDec>
+<localOccCnt>1663</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>30633</qurRate>
+<seq>18170</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.832</createDt>
+<deathCnt>495</deathCnt>
+<defCnt>610875</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>908</incDec>
+<localOccCnt>906</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>32993</qurRate>
+<seq>18169</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.831</createDt>
+<deathCnt>888</deathCnt>
+<defCnt>616674</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>1245</incDec>
+<localOccCnt>1230</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>34182</qurRate>
+<seq>18168</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.831</createDt>
+<deathCnt>970</deathCnt>
+<defCnt>737854</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1520</incDec>
+<localOccCnt>1512</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34788</qurRate>
+<seq>18167</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.831</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>571991</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1279</incDec>
+<localOccCnt>1261</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>35731</qurRate>
+<seq>18166</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.83</createDt>
+<deathCnt>878</deathCnt>
+<defCnt>536104</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1158</incDec>
+<localOccCnt>1146</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>34748</qurRate>
+<seq>18165</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.829</createDt>
+<deathCnt>6298</deathCnt>
+<defCnt>5096903</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>11043</incDec>
+<localOccCnt>11025</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>37960</qurRate>
+<seq>18164</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.829</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>143738</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>317</incDec>
+<localOccCnt>313</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>40395</qurRate>
+<seq>18163</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.829</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>397008</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1369</incDec>
+<localOccCnt>1361</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34947</qurRate>
+<seq>18162</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.828</createDt>
+<deathCnt>714</deathCnt>
+<defCnt>527543</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1172</incDec>
+<localOccCnt>1150</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>36037</qurRate>
+<seq>18161</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.828</createDt>
+<deathCnt>569</deathCnt>
+<defCnt>545427</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>937</incDec>
+<localOccCnt>912</localOccCnt>
+<overFlowCnt>25</overFlowCnt>
+<qurRate>37614</qurRate>
+<seq>18160</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.827</createDt>
+<deathCnt>1411</deathCnt>
+<defCnt>1104315</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>2103</incDec>
+<localOccCnt>2037</localOccCnt>
+<overFlowCnt>66</overFlowCnt>
+<qurRate>37526</qurRate>
+<seq>18159</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.827</createDt>
+<deathCnt>1355</deathCnt>
+<defCnt>786495</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1176</incDec>
+<localOccCnt>1162</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>32522</qurRate>
+<seq>18158</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.826</createDt>
+<deathCnt>2215</deathCnt>
+<defCnt>1131725</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>2568</incDec>
+<localOccCnt>2566</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>33365</qurRate>
+<seq>18157</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.825</createDt>
+<deathCnt>4918</deathCnt>
+<defCnt>3761516</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>8565</incDec>
+<localOccCnt>8561</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>38905</qurRate>
+<seq>18156</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-17 09:22:16.825</createDt>
+<deathCnt>24742</deathCnt>
+<defCnt>18761757</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>40342</incDec>
+<localOccCnt>40037</localOccCnt>
+<overFlowCnt>305</overFlowCnt>
+<qurRate>36199</qurRate>
+<seq>18155</seq>
+<stdDay>2022년 07월 17일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.541</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11543</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>20</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18154</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.541</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>246741</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>967</incDec>
+<localOccCnt>957</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>36574</qurRate>
+<seq>18153</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.541</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1123473</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>2299</incDec>
+<localOccCnt>2282</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>33635</qurRate>
+<seq>18152</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.54</createDt>
+<deathCnt>1440</deathCnt>
+<defCnt>806850</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1622</incDec>
+<localOccCnt>1603</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>30569</qurRate>
+<seq>18151</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.54</createDt>
+<deathCnt>495</deathCnt>
+<defCnt>609967</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>889</incDec>
+<localOccCnt>881</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>32944</qurRate>
+<seq>18150</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.54</createDt>
+<deathCnt>888</deathCnt>
+<defCnt>615429</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>1145</incDec>
+<localOccCnt>1136</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>34113</qurRate>
+<seq>18149</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.54</createDt>
+<deathCnt>970</deathCnt>
+<defCnt>736334</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1640</incDec>
+<localOccCnt>1620</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>34716</qurRate>
+<seq>18148</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.539</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>570712</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1283</incDec>
+<localOccCnt>1273</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>35651</qurRate>
+<seq>18147</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.539</createDt>
+<deathCnt>878</deathCnt>
+<defCnt>534946</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1111</incDec>
+<localOccCnt>1103</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34673</qurRate>
+<seq>18146</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.539</createDt>
+<deathCnt>6295</deathCnt>
+<defCnt>5085860</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>11448</incDec>
+<localOccCnt>11417</localOccCnt>
+<overFlowCnt>31</overFlowCnt>
+<qurRate>37878</qurRate>
+<seq>18145</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.539</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>143421</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>305</incDec>
+<localOccCnt>302</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>40306</qurRate>
+<seq>18144</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.539</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>395639</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1178</incDec>
+<localOccCnt>1171</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>34827</qurRate>
+<seq>18143</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.538</createDt>
+<deathCnt>712</deathCnt>
+<defCnt>526371</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1055</incDec>
+<localOccCnt>1044</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>35957</qurRate>
+<seq>18142</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.538</createDt>
+<deathCnt>569</deathCnt>
+<defCnt>544490</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>812</incDec>
+<localOccCnt>797</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>37549</qurRate>
+<seq>18141</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.538</createDt>
+<deathCnt>1411</deathCnt>
+<defCnt>1102212</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>2127</incDec>
+<localOccCnt>2061</localOccCnt>
+<overFlowCnt>66</overFlowCnt>
+<qurRate>37454</qurRate>
+<seq>18140</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.537</createDt>
+<deathCnt>1353</deathCnt>
+<defCnt>785319</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1335</incDec>
+<localOccCnt>1316</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>32473</qurRate>
+<seq>18139</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.537</createDt>
+<deathCnt>2214</deathCnt>
+<defCnt>1129157</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>2617</incDec>
+<localOccCnt>2611</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>33289</qurRate>
+<seq>18138</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.537</createDt>
+<deathCnt>4916</deathCnt>
+<defCnt>3752951</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>9457</incDec>
+<localOccCnt>9449</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>38816</qurRate>
+<seq>18137</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-16 09:29:56.537</createDt>
+<deathCnt>24728</deathCnt>
+<defCnt>18721415</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>41310</incDec>
+<localOccCnt>41023</localOccCnt>
+<overFlowCnt>287</overFlowCnt>
+<qurRate>36121</qurRate>
+<seq>18136</seq>
+<stdDay>2022년 07월 16일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.336</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11523</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>27</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>27</overFlowCnt>
+<qurRate>1703</qurRate>
+<seq>18135</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.336</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>245774</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>878</incDec>
+<localOccCnt>872</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>36316</qurRate>
+<seq>18134</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.336</createDt>
+<deathCnt>1274</deathCnt>
+<defCnt>1121175</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>2064</incDec>
+<localOccCnt>2042</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>33830</qurRate>
+<seq>18133</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.336</createDt>
+<deathCnt>1436</deathCnt>
+<defCnt>805230</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1618</incDec>
+<localOccCnt>1596</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>30657</qurRate>
+<seq>18132</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.335</createDt>
+<deathCnt>494</deathCnt>
+<defCnt>609078</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>855</incDec>
+<localOccCnt>845</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>33232</qurRate>
+<seq>18131</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.335</createDt>
+<deathCnt>888</deathCnt>
+<defCnt>614284</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>1070</incDec>
+<localOccCnt>1064</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>34378</qurRate>
+<seq>18130</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.335</createDt>
+<deathCnt>970</deathCnt>
+<defCnt>734712</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1416</incDec>
+<localOccCnt>1406</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>34668</qurRate>
+<seq>18129</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.335</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>569431</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1041</incDec>
+<localOccCnt>1030</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>35647</qurRate>
+<seq>18128</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.335</createDt>
+<deathCnt>877</deathCnt>
+<defCnt>533836</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1120</incDec>
+<localOccCnt>1112</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34699</qurRate>
+<seq>18127</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.334</createDt>
+<deathCnt>6289</deathCnt>
+<defCnt>5074415</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>10530</incDec>
+<localOccCnt>10508</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>37407</qurRate>
+<seq>18126</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.334</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>143116</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>259</incDec>
+<localOccCnt>258</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>38483</qurRate>
+<seq>18125</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.334</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>394461</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1054</incDec>
+<localOccCnt>1044</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>35170</qurRate>
+<seq>18124</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.334</createDt>
+<deathCnt>712</deathCnt>
+<defCnt>525320</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1006</incDec>
+<localOccCnt>998</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>36173</qurRate>
+<seq>18123</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.334</createDt>
+<deathCnt>569</deathCnt>
+<defCnt>543678</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>816</incDec>
+<localOccCnt>810</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>37713</qurRate>
+<seq>18122</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.333</createDt>
+<deathCnt>1410</deathCnt>
+<defCnt>1100085</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>2095</incDec>
+<localOccCnt>2026</localOccCnt>
+<overFlowCnt>69</overFlowCnt>
+<qurRate>37312</qurRate>
+<seq>18121</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.333</createDt>
+<deathCnt>1352</deathCnt>
+<defCnt>783984</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1546</incDec>
+<localOccCnt>1534</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>32866</qurRate>
+<seq>18120</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.333</createDt>
+<deathCnt>2214</deathCnt>
+<defCnt>1126544</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>2536</incDec>
+<localOccCnt>2534</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>33624</qurRate>
+<seq>18119</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.333</createDt>
+<deathCnt>4914</deathCnt>
+<defCnt>3743496</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>8951</incDec>
+<localOccCnt>8942</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>39366</qurRate>
+<seq>18118</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-15 09:08:08.332</createDt>
+<deathCnt>24712</deathCnt>
+<defCnt>18680142</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>38882</incDec>
+<localOccCnt>38621</localOccCnt>
+<overFlowCnt>261</overFlowCnt>
+<qurRate>36175</qurRate>
+<seq>18117</seq>
+<stdDay>2022년 07월 15일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.156</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11497</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>15</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>1699</qurRate>
+<seq>18116</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.156</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>244897</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>854</incDec>
+<localOccCnt>842</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>36187</qurRate>
+<seq>18115</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.156</createDt>
+<deathCnt>1273</deathCnt>
+<defCnt>1119111</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>2085</incDec>
+<localOccCnt>2058</localOccCnt>
+<overFlowCnt>27</overFlowCnt>
+<qurRate>33767</qurRate>
+<seq>18114</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.155</createDt>
+<deathCnt>1433</deathCnt>
+<defCnt>803612</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1573</incDec>
+<localOccCnt>1555</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>30595</qurRate>
+<seq>18113</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.155</createDt>
+<deathCnt>494</deathCnt>
+<defCnt>608223</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>850</incDec>
+<localOccCnt>844</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>33185</qurRate>
+<seq>18112</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.155</createDt>
+<deathCnt>887</deathCnt>
+<defCnt>613215</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>1149</incDec>
+<localOccCnt>1127</localOccCnt>
+<overFlowCnt>22</overFlowCnt>
+<qurRate>34318</qurRate>
+<seq>18111</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.155</createDt>
+<deathCnt>969</deathCnt>
+<defCnt>733296</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1516</incDec>
+<localOccCnt>1498</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>34602</qurRate>
+<seq>18110</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.154</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>568390</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1044</incDec>
+<localOccCnt>1032</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>35582</qurRate>
+<seq>18109</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.154</createDt>
+<deathCnt>876</deathCnt>
+<defCnt>532716</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1037</incDec>
+<localOccCnt>1029</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34626</qurRate>
+<seq>18108</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.154</createDt>
+<deathCnt>6286</deathCnt>
+<defCnt>5063892</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>10635</incDec>
+<localOccCnt>10590</localOccCnt>
+<overFlowCnt>45</overFlowCnt>
+<qurRate>37329</qurRate>
+<seq>18107</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.154</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>142857</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>266</incDec>
+<localOccCnt>260</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>38413</qurRate>
+<seq>18106</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.153</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>393407</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1086</incDec>
+<localOccCnt>1078</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>35076</qurRate>
+<seq>18105</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.153</createDt>
+<deathCnt>712</deathCnt>
+<defCnt>524314</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>1022</incDec>
+<localOccCnt>1011</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>36104</qurRate>
+<seq>18104</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.153</createDt>
+<deathCnt>569</deathCnt>
+<defCnt>542862</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>800</incDec>
+<localOccCnt>785</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>37657</qurRate>
+<seq>18103</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.153</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1097991</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>1967</incDec>
+<localOccCnt>1881</localOccCnt>
+<overFlowCnt>86</overFlowCnt>
+<qurRate>37241</qurRate>
+<seq>18102</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.152</createDt>
+<deathCnt>1350</deathCnt>
+<defCnt>782438</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1281</incDec>
+<localOccCnt>1266</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>32801</qurRate>
+<seq>18101</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.152</createDt>
+<deathCnt>2213</deathCnt>
+<defCnt>1124010</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>2361</incDec>
+<localOccCnt>2357</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>33549</qurRate>
+<seq>18100</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.152</createDt>
+<deathCnt>4912</deathCnt>
+<defCnt>3734550</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>9655</incDec>
+<localOccCnt>9645</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>39272</qurRate>
+<seq>18099</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-14 09:16:18.152</createDt>
+<deathCnt>24696</deathCnt>
+<defCnt>18641278</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>39196</incDec>
+<localOccCnt>38858</localOccCnt>
+<overFlowCnt>338</overFlowCnt>
+<qurRate>36099</qurRate>
+<seq>18098</seq>
+<stdDay>2022년 07월 14일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.658</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11482</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>17</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>1697</qurRate>
+<seq>18097</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.658</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>244043</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>964</incDec>
+<localOccCnt>950</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>36061</qurRate>
+<seq>18096</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.657</createDt>
+<deathCnt>1272</deathCnt>
+<defCnt>1117028</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>2166</incDec>
+<localOccCnt>2143</localOccCnt>
+<overFlowCnt>23</overFlowCnt>
+<qurRate>33704</qurRate>
+<seq>18095</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.657</createDt>
+<deathCnt>1431</deathCnt>
+<defCnt>802039</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1650</incDec>
+<localOccCnt>1626</localOccCnt>
+<overFlowCnt>24</overFlowCnt>
+<qurRate>30535</qurRate>
+<seq>18094</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.657</createDt>
+<deathCnt>494</deathCnt>
+<defCnt>607373</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>850</incDec>
+<localOccCnt>839</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>33139</qurRate>
+<seq>18093</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.657</createDt>
+<deathCnt>887</deathCnt>
+<defCnt>612068</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>1050</incDec>
+<localOccCnt>1032</localOccCnt>
+<overFlowCnt>18</overFlowCnt>
+<qurRate>34254</qurRate>
+<seq>18092</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.657</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>731780</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1598</incDec>
+<localOccCnt>1573</localOccCnt>
+<overFlowCnt>25</overFlowCnt>
+<qurRate>34530</qurRate>
+<seq>18091</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.656</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>567346</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>1069</incDec>
+<localOccCnt>1032</localOccCnt>
+<overFlowCnt>37</overFlowCnt>
+<qurRate>35516</qurRate>
+<seq>18090</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.656</createDt>
+<deathCnt>876</deathCnt>
+<defCnt>531679</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>1047</incDec>
+<localOccCnt>1037</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>34558</qurRate>
+<seq>18089</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.656</createDt>
+<deathCnt>6284</deathCnt>
+<defCnt>5053273</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>11175</incDec>
+<localOccCnt>11118</localOccCnt>
+<overFlowCnt>57</overFlowCnt>
+<qurRate>37251</qurRate>
+<seq>18088</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.656</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>142591</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>375</incDec>
+<localOccCnt>369</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>38342</qurRate>
+<seq>18087</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.655</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>392321</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1129</incDec>
+<localOccCnt>1119</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>34979</qurRate>
+<seq>18086</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.655</createDt>
+<deathCnt>712</deathCnt>
+<defCnt>523292</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>968</incDec>
+<localOccCnt>956</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>36033</qurRate>
+<seq>18085</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.655</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>542062</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>814</incDec>
+<localOccCnt>794</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>37601</qurRate>
+<seq>18084</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.655</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1096026</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>2097</incDec>
+<localOccCnt>2021</localOccCnt>
+<overFlowCnt>76</overFlowCnt>
+<qurRate>37174</qurRate>
+<seq>18083</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.654</createDt>
+<deathCnt>1350</deathCnt>
+<defCnt>781157</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1429</incDec>
+<localOccCnt>1405</localOccCnt>
+<overFlowCnt>24</overFlowCnt>
+<qurRate>32747</qurRate>
+<seq>18082</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.654</createDt>
+<deathCnt>2209</deathCnt>
+<defCnt>1121652</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>2505</incDec>
+<localOccCnt>2501</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>33478</qurRate>
+<seq>18081</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.654</createDt>
+<deathCnt>4909</deathCnt>
+<defCnt>3724897</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>9363</incDec>
+<localOccCnt>9353</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>39170</qurRate>
+<seq>18080</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-13 09:08:32.654</createDt>
+<deathCnt>24680</deathCnt>
+<defCnt>18602109</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>40266</incDec>
+<localOccCnt>39868</localOccCnt>
+<overFlowCnt>398</overFlowCnt>
+<qurRate>36024</qurRate>
+<seq>18079</seq>
+<stdDay>2022년 07월 13일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.025</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11465</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>16</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18078</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.025</createDt>
+<deathCnt>185</deathCnt>
+<defCnt>243079</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>542</incDec>
+<localOccCnt>528</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>35918</qurRate>
+<seq>18077</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.025</createDt>
+<deathCnt>1269</deathCnt>
+<defCnt>1114862</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>2106</incDec>
+<localOccCnt>2096</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>33639</qurRate>
+<seq>18076</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.025</createDt>
+<deathCnt>1430</deathCnt>
+<defCnt>800389</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>1162</incDec>
+<localOccCnt>1151</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>30472</qurRate>
+<seq>18075</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.025</createDt>
+<deathCnt>494</deathCnt>
+<defCnt>606523</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>754</incDec>
+<localOccCnt>747</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>33093</qurRate>
+<seq>18074</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.024</createDt>
+<deathCnt>887</deathCnt>
+<defCnt>611021</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>991</incDec>
+<localOccCnt>981</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>34195</qurRate>
+<seq>18073</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.024</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>730182</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>1289</incDec>
+<localOccCnt>1278</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>34455</qurRate>
+<seq>18072</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.024</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>566278</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>977</incDec>
+<localOccCnt>967</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>35449</qurRate>
+<seq>18071</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.024</createDt>
+<deathCnt>876</deathCnt>
+<defCnt>530633</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>889</incDec>
+<localOccCnt>885</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>34490</qurRate>
+<seq>18070</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.024</createDt>
+<deathCnt>6284</deathCnt>
+<defCnt>5042098</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>10306</incDec>
+<localOccCnt>10280</localOccCnt>
+<overFlowCnt>26</overFlowCnt>
+<qurRate>37169</qurRate>
+<seq>18069</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.023</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>142217</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>320</incDec>
+<localOccCnt>317</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>38241</qurRate>
+<seq>18068</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.023</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>391192</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>1001</incDec>
+<localOccCnt>998</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34878</qurRate>
+<seq>18067</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.023</createDt>
+<deathCnt>712</deathCnt>
+<defCnt>522324</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>914</incDec>
+<localOccCnt>908</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>35967</qurRate>
+<seq>18066</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.023</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>541248</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>662</incDec>
+<localOccCnt>656</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>37545</qurRate>
+<seq>18065</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.022</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1093934</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>1917</incDec>
+<localOccCnt>1831</localOccCnt>
+<overFlowCnt>86</overFlowCnt>
+<qurRate>37103</qurRate>
+<seq>18064</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.022</createDt>
+<deathCnt>1349</deathCnt>
+<defCnt>779728</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>1433</incDec>
+<localOccCnt>1409</localOccCnt>
+<overFlowCnt>24</overFlowCnt>
+<qurRate>32687</qurRate>
+<seq>18063</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.022</createDt>
+<deathCnt>2204</deathCnt>
+<defCnt>1119149</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>2669</incDec>
+<localOccCnt>2665</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>33404</qurRate>
+<seq>18062</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.022</createDt>
+<deathCnt>4907</deathCnt>
+<defCnt>3715539</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>9412</incDec>
+<localOccCnt>9403</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>39072</qurRate>
+<seq>18061</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-12 04:00:39.021</createDt>
+<deathCnt>24668</deathCnt>
+<defCnt>18561861</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>37360</incDec>
+<localOccCnt>37100</localOccCnt>
+<overFlowCnt>260</overFlowCnt>
+<qurRate>35946</qurRate>
+<seq>18060</seq>
+<stdDay>2022년 07월 12일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.502</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11450</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>23</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>23</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18059</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.502</createDt>
+<deathCnt>184</deathCnt>
+<defCnt>242537</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>359</incDec>
+<localOccCnt>355</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>35838</qurRate>
+<seq>18058</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.501</createDt>
+<deathCnt>1269</deathCnt>
+<defCnt>1112756</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>658</incDec>
+<localOccCnt>642</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33576</qurRate>
+<seq>18057</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.501</createDt>
+<deathCnt>1427</deathCnt>
+<defCnt>799227</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>534</incDec>
+<localOccCnt>518</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>30428</qurRate>
+<seq>18056</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.501</createDt>
+<deathCnt>492</deathCnt>
+<defCnt>605770</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>236</incDec>
+<localOccCnt>229</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>33052</qurRate>
+<seq>18055</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.501</createDt>
+<deathCnt>887</deathCnt>
+<defCnt>610030</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>310</incDec>
+<localOccCnt>303</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>34140</qurRate>
+<seq>18054</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.5</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>728893</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>446</incDec>
+<localOccCnt>438</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34394</qurRate>
+<seq>18053</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.5</createDt>
+<deathCnt>733</deathCnt>
+<defCnt>565302</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>317</incDec>
+<localOccCnt>313</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>35388</qurRate>
+<seq>18052</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.5</createDt>
+<deathCnt>876</deathCnt>
+<defCnt>529745</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>313</incDec>
+<localOccCnt>310</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34433</qurRate>
+<seq>18051</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.5</createDt>
+<deathCnt>6283</deathCnt>
+<defCnt>5031812</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>3987</incDec>
+<localOccCnt>3976</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>37093</qurRate>
+<seq>18050</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.5</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>141899</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>103</incDec>
+<localOccCnt>103</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>38156</qurRate>
+<seq>18049</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.499</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>390191</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>331</incDec>
+<localOccCnt>331</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>34789</qurRate>
+<seq>18048</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.499</createDt>
+<deathCnt>712</deathCnt>
+<defCnt>521410</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>469</incDec>
+<localOccCnt>465</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>35904</qurRate>
+<seq>18047</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.499</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>540586</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>267</incDec>
+<localOccCnt>256</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>37499</qurRate>
+<seq>18046</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.499</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1092017</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>638</incDec>
+<localOccCnt>582</localOccCnt>
+<overFlowCnt>56</overFlowCnt>
+<qurRate>37038</qurRate>
+<seq>18045</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.498</createDt>
+<deathCnt>1349</deathCnt>
+<defCnt>778296</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>454</incDec>
+<localOccCnt>447</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>32627</qurRate>
+<seq>18044</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.498</createDt>
+<deathCnt>2204</deathCnt>
+<defCnt>1116484</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>626</incDec>
+<localOccCnt>626</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>33324</qurRate>
+<seq>18043</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.498</createDt>
+<deathCnt>4907</deathCnt>
+<defCnt>3706133</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>2622</incDec>
+<localOccCnt>2619</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>38973</qurRate>
+<seq>18042</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-11 06:11:37.497</createDt>
+<deathCnt>24661</deathCnt>
+<defCnt>18524538</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>12693</incDec>
+<localOccCnt>12513</localOccCnt>
+<overFlowCnt>180</overFlowCnt>
+<qurRate>35873</qurRate>
+<seq>18041</seq>
+<stdDay>2022년 07월 11일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.246</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11427</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>13</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18040</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.246</createDt>
+<deathCnt>184</deathCnt>
+<defCnt>242178</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>492</incDec>
+<localOccCnt>484</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>35785</qurRate>
+<seq>18039</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.245</createDt>
+<deathCnt>1268</deathCnt>
+<defCnt>1112098</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1061</incDec>
+<localOccCnt>1041</localOccCnt>
+<overFlowCnt>20</overFlowCnt>
+<qurRate>33556</qurRate>
+<seq>18038</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.245</createDt>
+<deathCnt>1424</deathCnt>
+<defCnt>798693</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>903</incDec>
+<localOccCnt>877</localOccCnt>
+<overFlowCnt>26</overFlowCnt>
+<qurRate>30408</qurRate>
+<seq>18037</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.245</createDt>
+<deathCnt>489</deathCnt>
+<defCnt>605534</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>440</incDec>
+<localOccCnt>439</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>33039</qurRate>
+<seq>18036</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.245</createDt>
+<deathCnt>887</deathCnt>
+<defCnt>609720</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>574</incDec>
+<localOccCnt>551</localOccCnt>
+<overFlowCnt>23</overFlowCnt>
+<qurRate>34123</qurRate>
+<seq>18035</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.245</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>728447</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>786</incDec>
+<localOccCnt>774</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>34373</qurRate>
+<seq>18034</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.244</createDt>
+<deathCnt>731</deathCnt>
+<defCnt>564985</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>562</incDec>
+<localOccCnt>550</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>35368</qurRate>
+<seq>18033</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.244</createDt>
+<deathCnt>875</deathCnt>
+<defCnt>529432</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>435</incDec>
+<localOccCnt>433</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>34412</qurRate>
+<seq>18032</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.243</createDt>
+<deathCnt>6281</deathCnt>
+<defCnt>5027825</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>5448</incDec>
+<localOccCnt>5437</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>37063</qurRate>
+<seq>18031</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.243</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>141796</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>196</incDec>
+<localOccCnt>190</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>38128</qurRate>
+<seq>18030</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.242</createDt>
+<deathCnt>343</deathCnt>
+<defCnt>389860</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>646</incDec>
+<localOccCnt>643</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34760</qurRate>
+<seq>18029</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.242</createDt>
+<deathCnt>711</deathCnt>
+<defCnt>520941</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>524</incDec>
+<localOccCnt>521</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>35871</qurRate>
+<seq>18028</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.242</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>540319</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>370</incDec>
+<localOccCnt>351</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>37480</qurRate>
+<seq>18027</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.242</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1091379</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>931</incDec>
+<localOccCnt>868</localOccCnt>
+<overFlowCnt>63</overFlowCnt>
+<qurRate>37016</qurRate>
+<seq>18026</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.241</createDt>
+<deathCnt>1349</deathCnt>
+<defCnt>777842</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>488</incDec>
+<localOccCnt>477</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>32608</qurRate>
+<seq>18025</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.241</createDt>
+<deathCnt>2201</deathCnt>
+<defCnt>1115858</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1297</incDec>
+<localOccCnt>1286</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>33305</qurRate>
+<seq>18024</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.241</createDt>
+<deathCnt>4905</deathCnt>
+<defCnt>3703511</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>5244</incDec>
+<localOccCnt>5238</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>38946</qurRate>
+<seq>18023</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-10 09:38:28.241</createDt>
+<deathCnt>24643</deathCnt>
+<defCnt>18511845</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>20410</incDec>
+<localOccCnt>20160</localOccCnt>
+<overFlowCnt>250</overFlowCnt>
+<qurRate>35849</qurRate>
+<seq>18022</seq>
+<stdDay>2022년 07월 10일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.693</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11414</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>13</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18021</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.693</createDt>
+<deathCnt>183</deathCnt>
+<defCnt>241686</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>366</incDec>
+<localOccCnt>357</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>35712</qurRate>
+<seq>18020</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.693</createDt>
+<deathCnt>1268</deathCnt>
+<defCnt>1111037</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1095</incDec>
+<localOccCnt>1079</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33524</qurRate>
+<seq>18019</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.692</createDt>
+<deathCnt>1420</deathCnt>
+<defCnt>797790</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>745</incDec>
+<localOccCnt>734</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>30373</qurRate>
+<seq>18018</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.692</createDt>
+<deathCnt>486</deathCnt>
+<defCnt>605094</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>477</incDec>
+<localOccCnt>472</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>33015</qurRate>
+<seq>18017</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.692</createDt>
+<deathCnt>885</deathCnt>
+<defCnt>609146</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>519</incDec>
+<localOccCnt>508</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>34090</qurRate>
+<seq>18016</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.692</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>727661</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>760</incDec>
+<localOccCnt>747</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>34336</qurRate>
+<seq>18015</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.691</createDt>
+<deathCnt>731</deathCnt>
+<defCnt>564423</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>567</incDec>
+<localOccCnt>559</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>35333</qurRate>
+<seq>18014</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.691</createDt>
+<deathCnt>875</deathCnt>
+<defCnt>528997</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>546</incDec>
+<localOccCnt>534</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>34384</qurRate>
+<seq>18013</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.691</createDt>
+<deathCnt>6281</deathCnt>
+<defCnt>5022377</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>5629</incDec>
+<localOccCnt>5595</localOccCnt>
+<overFlowCnt>34</overFlowCnt>
+<qurRate>37023</qurRate>
+<seq>18012</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.691</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>141600</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>176</incDec>
+<localOccCnt>173</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>38075</qurRate>
+<seq>18011</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.69</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>389214</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>580</incDec>
+<localOccCnt>577</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34702</qurRate>
+<seq>18010</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.69</createDt>
+<deathCnt>711</deathCnt>
+<defCnt>520417</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>504</incDec>
+<localOccCnt>497</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>35835</qurRate>
+<seq>18009</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.69</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>539949</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>350</incDec>
+<localOccCnt>343</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>37455</qurRate>
+<seq>18008</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.69</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1090448</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>1067</incDec>
+<localOccCnt>1011</localOccCnt>
+<overFlowCnt>56</overFlowCnt>
+<qurRate>36985</qurRate>
+<seq>18007</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.689</createDt>
+<deathCnt>1349</deathCnt>
+<defCnt>777354</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>712</incDec>
+<localOccCnt>701</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>32588</qurRate>
+<seq>18006</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.689</createDt>
+<deathCnt>2193</deathCnt>
+<defCnt>1114561</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1280</incDec>
+<localOccCnt>1279</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>33267</qurRate>
+<seq>18005</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.689</createDt>
+<deathCnt>4905</deathCnt>
+<defCnt>3698267</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>4900</incDec>
+<localOccCnt>4897</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>38890</qurRate>
+<seq>18004</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-09 09:25:08.689</createDt>
+<deathCnt>24624</deathCnt>
+<defCnt>18491435</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>20286</incDec>
+<localOccCnt>20063</localOccCnt>
+<overFlowCnt>223</overFlowCnt>
+<qurRate>35809</qurRate>
+<seq>18003</seq>
+<stdDay>2022년 07월 09일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.967</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11401</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>17</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>18002</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.967</createDt>
+<deathCnt>183</deathCnt>
+<defCnt>241320</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>394</incDec>
+<localOccCnt>383</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>35658</qurRate>
+<seq>18001</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.967</createDt>
+<deathCnt>1263</deathCnt>
+<defCnt>1109943</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1039</incDec>
+<localOccCnt>1018</localOccCnt>
+<overFlowCnt>21</overFlowCnt>
+<qurRate>33491</qurRate>
+<seq>18000</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.966</createDt>
+<deathCnt>1417</deathCnt>
+<defCnt>797045</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>759</incDec>
+<localOccCnt>750</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>30345</qurRate>
+<seq>17999</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.966</createDt>
+<deathCnt>486</deathCnt>
+<defCnt>604618</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>380</incDec>
+<localOccCnt>371</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>32989</qurRate>
+<seq>17998</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.966</createDt>
+<deathCnt>885</deathCnt>
+<defCnt>608629</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>544</incDec>
+<localOccCnt>535</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>34061</qurRate>
+<seq>17997</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.966</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>726901</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>772</incDec>
+<localOccCnt>762</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>34300</qurRate>
+<seq>17996</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.965</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>563857</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>494</incDec>
+<localOccCnt>487</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>35298</qurRate>
+<seq>17995</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.965</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>528451</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>486</incDec>
+<localOccCnt>478</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34349</qurRate>
+<seq>17994</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.965</createDt>
+<deathCnt>6280</deathCnt>
+<defCnt>5016754</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>5410</incDec>
+<localOccCnt>5395</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>36982</qurRate>
+<seq>17993</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.965</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>141424</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>165</incDec>
+<localOccCnt>160</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>38028</qurRate>
+<seq>17992</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.965</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>388634</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>490</incDec>
+<localOccCnt>484</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>34650</qurRate>
+<seq>17991</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.964</createDt>
+<deathCnt>711</deathCnt>
+<defCnt>519917</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>561</incDec>
+<localOccCnt>560</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>35801</qurRate>
+<seq>17990</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.964</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>539599</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>362</incDec>
+<localOccCnt>355</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>37430</qurRate>
+<seq>17989</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.964</createDt>
+<deathCnt>1409</deathCnt>
+<defCnt>1089384</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>978</incDec>
+<localOccCnt>932</localOccCnt>
+<overFlowCnt>46</overFlowCnt>
+<qurRate>36949</qurRate>
+<seq>17988</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.964</createDt>
+<deathCnt>1348</deathCnt>
+<defCnt>776642</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>627</incDec>
+<localOccCnt>617</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>32558</qurRate>
+<seq>17987</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.963</createDt>
+<deathCnt>2188</deathCnt>
+<defCnt>1113285</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1240</incDec>
+<localOccCnt>1240</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>33229</qurRate>
+<seq>17986</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.963</createDt>
+<deathCnt>4903</deathCnt>
+<defCnt>3693368</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>4605</incDec>
+<localOccCnt>4605</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>38839</qurRate>
+<seq>17985</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-08 06:22:42.963</createDt>
+<deathCnt>24605</deathCnt>
+<defCnt>18471172</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>19323</incDec>
+<localOccCnt>19132</localOccCnt>
+<overFlowCnt>191</overFlowCnt>
+<qurRate>35770</qurRate>
+<seq>17984</seq>
+<stdDay>2022년 07월 08일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.308</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11384</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>6</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>17983</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.308</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>240926</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>413</incDec>
+<localOccCnt>408</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>35600</qurRate>
+<seq>17982</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.307</createDt>
+<deathCnt>1262</deathCnt>
+<defCnt>1108904</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>971</incDec>
+<localOccCnt>959</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>33459</qurRate>
+<seq>17981</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.307</createDt>
+<deathCnt>1417</deathCnt>
+<defCnt>796286</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>798</incDec>
+<localOccCnt>782</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>30316</qurRate>
+<seq>17980</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.307</createDt>
+<deathCnt>485</deathCnt>
+<defCnt>604238</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>411</incDec>
+<localOccCnt>406</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>32968</qurRate>
+<seq>17979</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.307</createDt>
+<deathCnt>885</deathCnt>
+<defCnt>608086</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>458</incDec>
+<localOccCnt>449</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>34031</qurRate>
+<seq>17978</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.307</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>726129</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>699</incDec>
+<localOccCnt>696</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34263</qurRate>
+<seq>17977</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.306</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>563363</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>441</incDec>
+<localOccCnt>430</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>35267</qurRate>
+<seq>17976</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.306</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>527965</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>561</incDec>
+<localOccCnt>548</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>34317</qurRate>
+<seq>17975</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.306</createDt>
+<deathCnt>6280</deathCnt>
+<defCnt>5011349</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>4983</incDec>
+<localOccCnt>4967</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>36942</qurRate>
+<seq>17974</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.306</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>141259</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>111</incDec>
+<localOccCnt>107</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>37984</qurRate>
+<seq>17973</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.305</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>388144</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>480</incDec>
+<localOccCnt>472</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34607</qurRate>
+<seq>17972</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.305</createDt>
+<deathCnt>711</deathCnt>
+<defCnt>519356</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>488</incDec>
+<localOccCnt>485</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>35762</qurRate>
+<seq>17971</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.305</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>539237</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>313</incDec>
+<localOccCnt>303</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>37405</qurRate>
+<seq>17970</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.305</createDt>
+<deathCnt>1408</deathCnt>
+<defCnt>1088406</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>983</incDec>
+<localOccCnt>927</localOccCnt>
+<overFlowCnt>56</overFlowCnt>
+<qurRate>36915</qurRate>
+<seq>17969</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.304</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>776016</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>658</incDec>
+<localOccCnt>649</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>32532</qurRate>
+<seq>17968</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.304</createDt>
+<deathCnt>2184</deathCnt>
+<defCnt>1112045</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1157</incDec>
+<localOccCnt>1155</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>33192</qurRate>
+<seq>17967</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.304</createDt>
+<deathCnt>4901</deathCnt>
+<defCnt>3688769</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>4580</incDec>
+<localOccCnt>4574</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>38791</qurRate>
+<seq>17966</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-07 06:14:03.304</createDt>
+<deathCnt>24593</deathCnt>
+<defCnt>18451862</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>18511</incDec>
+<localOccCnt>18317</localOccCnt>
+<overFlowCnt>194</overFlowCnt>
+<qurRate>35733</qurRate>
+<seq>17965</seq>
+<stdDay>2022년 07월 07일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.605</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11378</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>9</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>1681</qurRate>
+<seq>17964</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.605</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>240513</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>381</incDec>
+<localOccCnt>375</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>35539</qurRate>
+<seq>17963</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.605</createDt>
+<deathCnt>1261</deathCnt>
+<defCnt>1107933</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1066</incDec>
+<localOccCnt>1049</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>33430</qurRate>
+<seq>17962</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.605</createDt>
+<deathCnt>1415</deathCnt>
+<defCnt>795489</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>942</incDec>
+<localOccCnt>925</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>30286</qurRate>
+<seq>17961</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.605</createDt>
+<deathCnt>485</deathCnt>
+<defCnt>603827</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>459</incDec>
+<localOccCnt>452</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>32946</qurRate>
+<seq>17960</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.604</createDt>
+<deathCnt>885</deathCnt>
+<defCnt>607628</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>479</incDec>
+<localOccCnt>464</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>34005</qurRate>
+<seq>17959</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.604</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>725430</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>665</incDec>
+<localOccCnt>662</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34230</qurRate>
+<seq>17958</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.604</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>562922</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>488</incDec>
+<localOccCnt>467</localOccCnt>
+<overFlowCnt>21</overFlowCnt>
+<qurRate>35239</qurRate>
+<seq>17957</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.604</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>527404</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>596</incDec>
+<localOccCnt>581</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>34281</qurRate>
+<seq>17956</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.604</createDt>
+<deathCnt>6278</deathCnt>
+<defCnt>5006368</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>5174</incDec>
+<localOccCnt>5159</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>36905</qurRate>
+<seq>17955</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.603</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>141148</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>153</incDec>
+<localOccCnt>150</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>37954</qurRate>
+<seq>17954</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.603</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>387664</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>518</incDec>
+<localOccCnt>507</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>34564</qurRate>
+<seq>17953</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.603</createDt>
+<deathCnt>710</deathCnt>
+<defCnt>518868</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>453</incDec>
+<localOccCnt>451</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>35729</qurRate>
+<seq>17952</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.603</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>538924</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>337</incDec>
+<localOccCnt>326</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>37383</qurRate>
+<seq>17951</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.602</createDt>
+<deathCnt>1407</deathCnt>
+<defCnt>1087425</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>1071</incDec>
+<localOccCnt>1022</localOccCnt>
+<overFlowCnt>49</overFlowCnt>
+<qurRate>36882</qurRate>
+<seq>17950</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.602</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>775358</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>646</incDec>
+<localOccCnt>627</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>32504</qurRate>
+<seq>17949</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.602</createDt>
+<deathCnt>2182</deathCnt>
+<defCnt>1110890</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1164</incDec>
+<localOccCnt>1162</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>33157</qurRate>
+<seq>17948</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.602</createDt>
+<deathCnt>4900</deathCnt>
+<defCnt>3684190</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>4770</incDec>
+<localOccCnt>4768</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>38742</qurRate>
+<seq>17947</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-06 09:11:15.601</createDt>
+<deathCnt>24583</deathCnt>
+<defCnt>18433359</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>19371</incDec>
+<localOccCnt>19147</localOccCnt>
+<overFlowCnt>224</overFlowCnt>
+<qurRate>35697</qurRate>
+<seq>17946</seq>
+<stdDay>2022년 07월 06일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.84</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11369</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>15</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>17945</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.839</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>240132</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>285</incDec>
+<localOccCnt>275</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>35483</qurRate>
+<seq>17944</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.839</createDt>
+<deathCnt>1260</deathCnt>
+<defCnt>1106868</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>1074</incDec>
+<localOccCnt>1065</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>33398</qurRate>
+<seq>17943</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.839</createDt>
+<deathCnt>1414</deathCnt>
+<defCnt>794547</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>657</incDec>
+<localOccCnt>643</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>30250</qurRate>
+<seq>17942</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.839</createDt>
+<deathCnt>484</deathCnt>
+<defCnt>603368</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>385</incDec>
+<localOccCnt>380</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>32921</qurRate>
+<seq>17941</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.839</createDt>
+<deathCnt>884</deathCnt>
+<defCnt>607152</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>401</incDec>
+<localOccCnt>396</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>33979</qurRate>
+<seq>17940</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.838</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>724765</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>585</incDec>
+<localOccCnt>583</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>34199</qurRate>
+<seq>17939</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.838</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>562434</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>412</incDec>
+<localOccCnt>407</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>35209</qurRate>
+<seq>17938</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.838</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>526808</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>532</incDec>
+<localOccCnt>531</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>34242</qurRate>
+<seq>17937</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.838</createDt>
+<deathCnt>6277</deathCnt>
+<defCnt>5001197</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>4896</incDec>
+<localOccCnt>4881</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>36867</qurRate>
+<seq>17936</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.837</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>140995</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>117</incDec>
+<localOccCnt>108</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>37913</qurRate>
+<seq>17935</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.837</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>387146</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>465</incDec>
+<localOccCnt>462</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>34518</qurRate>
+<seq>17934</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.837</createDt>
+<deathCnt>710</deathCnt>
+<defCnt>518415</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>435</incDec>
+<localOccCnt>435</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>35697</qurRate>
+<seq>17933</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.836</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>538587</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>280</incDec>
+<localOccCnt>272</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>37360</qurRate>
+<seq>17932</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.836</createDt>
+<deathCnt>1407</deathCnt>
+<defCnt>1086354</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>983</incDec>
+<localOccCnt>920</localOccCnt>
+<overFlowCnt>63</overFlowCnt>
+<qurRate>36846</qurRate>
+<seq>17931</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.836</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>774712</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>677</incDec>
+<localOccCnt>672</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>32477</qurRate>
+<seq>17930</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.836</createDt>
+<deathCnt>2182</deathCnt>
+<defCnt>1109727</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>1169</incDec>
+<localOccCnt>1169</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>33122</qurRate>
+<seq>17929</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.835</createDt>
+<deathCnt>4898</deathCnt>
+<defCnt>3679421</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>4779</incDec>
+<localOccCnt>4777</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>38692</qurRate>
+<seq>17928</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-05 08:52:36.835</createDt>
+<deathCnt>24576</deathCnt>
+<defCnt>18413997</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>18147</incDec>
+<localOccCnt>17976</localOccCnt>
+<overFlowCnt>171</overFlowCnt>
+<qurRate>35659</qurRate>
+<seq>17927</seq>
+<stdDay>2022년 07월 05일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.165</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11354</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>9</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>-</qurRate>
+<seq>17926</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.164</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>239847</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>174</incDec>
+<localOccCnt>171</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>35441</qurRate>
+<seq>17925</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.164</createDt>
+<deathCnt>1260</deathCnt>
+<defCnt>1105795</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>332</incDec>
+<localOccCnt>316</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33366</qurRate>
+<seq>17924</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.164</createDt>
+<deathCnt>1413</deathCnt>
+<defCnt>793891</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>313</incDec>
+<localOccCnt>299</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>30225</qurRate>
+<seq>17923</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.164</createDt>
+<deathCnt>484</deathCnt>
+<defCnt>602983</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>148</incDec>
+<localOccCnt>147</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>32899</qurRate>
+<seq>17922</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.163</createDt>
+<deathCnt>884</deathCnt>
+<defCnt>606751</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>126</incDec>
+<localOccCnt>119</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>33956</qurRate>
+<seq>17921</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.163</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>724180</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>240</incDec>
+<localOccCnt>240</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>34171</qurRate>
+<seq>17920</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.163</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>562022</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>166</incDec>
+<localOccCnt>160</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>35183</qurRate>
+<seq>17919</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.163</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>526277</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>235</incDec>
+<localOccCnt>227</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>34207</qurRate>
+<seq>17918</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.162</createDt>
+<deathCnt>6277</deathCnt>
+<defCnt>4996307</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>1895</incDec>
+<localOccCnt>1890</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>36831</qurRate>
+<seq>17917</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.162</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>140878</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>57</incDec>
+<localOccCnt>55</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>37881</qurRate>
+<seq>17916</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.162</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>386681</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>148</incDec>
+<localOccCnt>148</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>34476</qurRate>
+<seq>17915</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.162</createDt>
+<deathCnt>710</deathCnt>
+<defCnt>517980</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>213</incDec>
+<localOccCnt>211</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>35667</qurRate>
+<seq>17914</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.162</createDt>
+<deathCnt>568</deathCnt>
+<defCnt>538307</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>144</incDec>
+<localOccCnt>130</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>37341</qurRate>
+<seq>17913</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.161</createDt>
+<deathCnt>1407</deathCnt>
+<defCnt>1085373</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>348</incDec>
+<localOccCnt>282</localOccCnt>
+<overFlowCnt>66</overFlowCnt>
+<qurRate>36813</qurRate>
+<seq>17912</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.161</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>774035</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>253</incDec>
+<localOccCnt>242</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>32449</qurRate>
+<seq>17911</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.161</createDt>
+<deathCnt>2182</deathCnt>
+<defCnt>1108558</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>291</incDec>
+<localOccCnt>291</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>33088</qurRate>
+<seq>17910</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.161</createDt>
+<deathCnt>4897</deathCnt>
+<defCnt>3674645</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>1161</incDec>
+<localOccCnt>1161</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>38642</qurRate>
+<seq>17909</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-04 09:17:32.16</createDt>
+<deathCnt>24574</deathCnt>
+<defCnt>18395864</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>6253</incDec>
+<localOccCnt>6089</localOccCnt>
+<overFlowCnt>164</overFlowCnt>
+<qurRate>35624</qurRate>
+<seq>17908</seq>
+<stdDay>2022년 07월 04일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.234</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11345</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>15</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>1676</qurRate>
+<seq>17907</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.234</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>239673</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>207</incDec>
+<localOccCnt>200</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>35415</qurRate>
+<seq>17906</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.233</createDt>
+<deathCnt>1260</deathCnt>
+<defCnt>1105463</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>588</incDec>
+<localOccCnt>572</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>33356</qurRate>
+<seq>17905</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.233</createDt>
+<deathCnt>1413</deathCnt>
+<defCnt>793578</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>537</incDec>
+<localOccCnt>521</localOccCnt>
+<overFlowCnt>16</overFlowCnt>
+<qurRate>30213</qurRate>
+<seq>17904</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.233</createDt>
+<deathCnt>483</deathCnt>
+<defCnt>602835</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>248</incDec>
+<localOccCnt>241</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>32891</qurRate>
+<seq>17903</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.233</createDt>
+<deathCnt>884</deathCnt>
+<defCnt>606625</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>268</incDec>
+<localOccCnt>257</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>33949</qurRate>
+<seq>17902</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.232</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>723940</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>418</incDec>
+<localOccCnt>412</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>34160</qurRate>
+<seq>17901</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.232</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>561856</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>215</incDec>
+<localOccCnt>209</localOccCnt>
+<overFlowCnt>6</overFlowCnt>
+<qurRate>35173</qurRate>
+<seq>17900</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.232</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>526042</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>269</incDec>
+<localOccCnt>257</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>34192</qurRate>
+<seq>17899</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.232</createDt>
+<deathCnt>6277</deathCnt>
+<defCnt>4994412</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>2663</incDec>
+<localOccCnt>2637</localOccCnt>
+<overFlowCnt>26</overFlowCnt>
+<qurRate>36817</qurRate>
+<seq>17898</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.232</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>140821</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>70</incDec>
+<localOccCnt>70</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>37866</qurRate>
+<seq>17897</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.231</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>386533</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>285</incDec>
+<localOccCnt>283</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>34463</qurRate>
+<seq>17896</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.231</createDt>
+<deathCnt>710</deathCnt>
+<defCnt>517767</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>241</incDec>
+<localOccCnt>237</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>35653</qurRate>
+<seq>17895</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.231</createDt>
+<deathCnt>567</deathCnt>
+<defCnt>538163</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>188</incDec>
+<localOccCnt>181</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>37331</qurRate>
+<seq>17894</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.231</createDt>
+<deathCnt>1407</deathCnt>
+<defCnt>1085025</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>566</incDec>
+<localOccCnt>516</localOccCnt>
+<overFlowCnt>50</overFlowCnt>
+<qurRate>36801</qurRate>
+<seq>17893</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.23</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>773782</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>294</incDec>
+<localOccCnt>291</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>32438</qurRate>
+<seq>17892</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.23</createDt>
+<deathCnt>2181</deathCnt>
+<defCnt>1108267</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>547</incDec>
+<localOccCnt>547</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>33079</qurRate>
+<seq>17891</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.23</createDt>
+<deathCnt>4896</deathCnt>
+<defCnt>3673484</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>2440</incDec>
+<localOccCnt>2437</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>38630</qurRate>
+<seq>17890</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-03 08:59:04.229</createDt>
+<deathCnt>24570</deathCnt>
+<defCnt>18389611</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>10059</incDec>
+<localOccCnt>9868</localOccCnt>
+<overFlowCnt>191</overFlowCnt>
+<qurRate>35612</qurRate>
+<seq>17889</seq>
+<stdDay>2022년 07월 03일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.164</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11330</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>14</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>14</overFlowCnt>
+<qurRate>1674</qurRate>
+<seq>17888</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.164</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>239466</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>216</incDec>
+<localOccCnt>206</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>35384</qurRate>
+<seq>17887</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.163</createDt>
+<deathCnt>1259</deathCnt>
+<defCnt>1104875</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>576</incDec>
+<localOccCnt>571</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>33338</qurRate>
+<seq>17886</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.163</createDt>
+<deathCnt>1410</deathCnt>
+<defCnt>793041</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>503</incDec>
+<localOccCnt>490</localOccCnt>
+<overFlowCnt>13</overFlowCnt>
+<qurRate>30193</qurRate>
+<seq>17885</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.163</createDt>
+<deathCnt>483</deathCnt>
+<defCnt>602587</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>243</incDec>
+<localOccCnt>236</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>32878</qurRate>
+<seq>17884</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.163</createDt>
+<deathCnt>883</deathCnt>
+<defCnt>606357</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>274</incDec>
+<localOccCnt>264</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>33934</qurRate>
+<seq>17883</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.162</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>723522</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>381</incDec>
+<localOccCnt>379</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>34140</qurRate>
+<seq>17882</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.162</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>561641</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>265</incDec>
+<localOccCnt>253</localOccCnt>
+<overFlowCnt>12</overFlowCnt>
+<qurRate>35159</qurRate>
+<seq>17881</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.162</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>525773</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>313</incDec>
+<localOccCnt>311</localOccCnt>
+<overFlowCnt>2</overFlowCnt>
+<qurRate>34175</qurRate>
+<seq>17880</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.162</createDt>
+<deathCnt>6276</deathCnt>
+<defCnt>4991749</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>2819</incDec>
+<localOccCnt>2800</localOccCnt>
+<overFlowCnt>19</overFlowCnt>
+<qurRate>36798</qurRate>
+<seq>17879</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.162</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>140751</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>79</incDec>
+<localOccCnt>78</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>37847</qurRate>
+<seq>17878</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.161</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>386248</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>311</incDec>
+<localOccCnt>311</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>34437</qurRate>
+<seq>17877</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.161</createDt>
+<deathCnt>710</deathCnt>
+<defCnt>517526</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>274</incDec>
+<localOccCnt>274</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>35636</qurRate>
+<seq>17876</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.161</createDt>
+<deathCnt>567</deathCnt>
+<defCnt>537975</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>164</incDec>
+<localOccCnt>157</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>37318</qurRate>
+<seq>17875</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.161</createDt>
+<deathCnt>1407</deathCnt>
+<defCnt>1084459</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>525</incDec>
+<localOccCnt>472</localOccCnt>
+<overFlowCnt>53</overFlowCnt>
+<qurRate>36782</qurRate>
+<seq>17874</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.16</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>773488</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>369</incDec>
+<localOccCnt>364</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>32426</qurRate>
+<seq>17873</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.16</createDt>
+<deathCnt>2181</deathCnt>
+<defCnt>1107720</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>611</incDec>
+<localOccCnt>608</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>33063</qurRate>
+<seq>17872</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.16</createDt>
+<deathCnt>4894</deathCnt>
+<defCnt>3671044</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>2778</incDec>
+<localOccCnt>2768</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>38604</qurRate>
+<seq>17871</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-02 09:04:27.16</createDt>
+<deathCnt>24562</deathCnt>
+<defCnt>18379552</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>10715</incDec>
+<localOccCnt>10542</localOccCnt>
+<overFlowCnt>173</overFlowCnt>
+<qurRate>35593</qurRate>
+<seq>17870</seq>
+<stdDay>2022년 07월 02일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.375</createDt>
+<deathCnt>16</deathCnt>
+<defCnt>11316</defCnt>
+<gubun>검역</gubun>
+<gubunCn>隔離區</gubunCn>
+<gubunEn>Lazaretto</gubunEn>
+<incDec>8</incDec>
+<localOccCnt>0</localOccCnt>
+<overFlowCnt>8</overFlowCnt>
+<qurRate>1672</qurRate>
+<seq>17869</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.375</createDt>
+<deathCnt>182</deathCnt>
+<defCnt>239250</defCnt>
+<gubun>제주</gubun>
+<gubunCn>济州</gubunCn>
+<gubunEn>Jeju</gubunEn>
+<incDec>184</incDec>
+<localOccCnt>167</localOccCnt>
+<overFlowCnt>17</overFlowCnt>
+<qurRate>35352</qurRate>
+<seq>17868</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.375</createDt>
+<deathCnt>1259</deathCnt>
+<defCnt>1104299</defCnt>
+<gubun>경남</gubun>
+<gubunCn>庆南</gubunCn>
+<gubunEn>Gyeongsangnam-do</gubunEn>
+<incDec>557</incDec>
+<localOccCnt>542</localOccCnt>
+<overFlowCnt>15</overFlowCnt>
+<qurRate>33320</qurRate>
+<seq>17867</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.375</createDt>
+<deathCnt>1410</deathCnt>
+<defCnt>792538</defCnt>
+<gubun>경북</gubun>
+<gubunCn>庆北</gubunCn>
+<gubunEn>Gyeongsangbuk-do</gubunEn>
+<incDec>464</incDec>
+<localOccCnt>453</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>30173</qurRate>
+<seq>17866</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.375</createDt>
+<deathCnt>483</deathCnt>
+<defCnt>602345</defCnt>
+<gubun>전남</gubun>
+<gubunCn>全南</gubunCn>
+<gubunEn>Jeollanam-do</gubunEn>
+<incDec>227</incDec>
+<localOccCnt>224</localOccCnt>
+<overFlowCnt>3</overFlowCnt>
+<qurRate>32865</qurRate>
+<seq>17865</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.374</createDt>
+<deathCnt>883</deathCnt>
+<defCnt>606083</defCnt>
+<gubun>전북</gubun>
+<gubunCn>全北</gubunCn>
+<gubunEn>Jeollabuk-do</gubunEn>
+<incDec>253</incDec>
+<localOccCnt>249</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>33919</qurRate>
+<seq>17864</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.374</createDt>
+<deathCnt>966</deathCnt>
+<defCnt>723146</defCnt>
+<gubun>충남</gubun>
+<gubunCn>忠南</gubunCn>
+<gubunEn>Chungcheongnam-do</gubunEn>
+<incDec>317</incDec>
+<localOccCnt>317</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>34123</qurRate>
+<seq>17863</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.374</createDt>
+<deathCnt>730</deathCnt>
+<defCnt>561376</defCnt>
+<gubun>충북</gubun>
+<gubunCn>忠北</gubunCn>
+<gubunEn>Chungcheongbuk-do</gubunEn>
+<incDec>264</incDec>
+<localOccCnt>253</localOccCnt>
+<overFlowCnt>11</overFlowCnt>
+<qurRate>35143</qurRate>
+<seq>17862</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.374</createDt>
+<deathCnt>874</deathCnt>
+<defCnt>525460</defCnt>
+<gubun>강원</gubun>
+<gubunCn>江原</gubunCn>
+<gubunEn>Gangwon-do</gubunEn>
+<incDec>241</incDec>
+<localOccCnt>236</localOccCnt>
+<overFlowCnt>5</overFlowCnt>
+<qurRate>34154</qurRate>
+<seq>17861</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.374</createDt>
+<deathCnt>6274</deathCnt>
+<defCnt>4988935</defCnt>
+<gubun>경기</gubun>
+<gubunCn>京畿</gubunCn>
+<gubunEn>Gyeonggi-do</gubunEn>
+<incDec>2463</incDec>
+<localOccCnt>2453</localOccCnt>
+<overFlowCnt>10</overFlowCnt>
+<qurRate>36777</qurRate>
+<seq>17860</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.373</createDt>
+<deathCnt>36</deathCnt>
+<defCnt>140672</defCnt>
+<gubun>세종</gubun>
+<gubunCn>世宗</gubunCn>
+<gubunEn>Sejong</gubunEn>
+<incDec>55</incDec>
+<localOccCnt>54</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>37826</qurRate>
+<seq>17859</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.373</createDt>
+<deathCnt>342</deathCnt>
+<defCnt>385937</defCnt>
+<gubun>울산</gubun>
+<gubunCn>蔚山</gubunCn>
+<gubunEn>Ulsan</gubunEn>
+<incDec>291</incDec>
+<localOccCnt>290</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>34410</qurRate>
+<seq>17858</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.373</createDt>
+<deathCnt>709</deathCnt>
+<defCnt>517252</defCnt>
+<gubun>대전</gubun>
+<gubunCn>大田</gubunCn>
+<gubunEn>Daejeon</gubunEn>
+<incDec>209</incDec>
+<localOccCnt>208</localOccCnt>
+<overFlowCnt>1</overFlowCnt>
+<qurRate>35617</qurRate>
+<seq>17857</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.373</createDt>
+<deathCnt>567</deathCnt>
+<defCnt>537811</defCnt>
+<gubun>광주</gubun>
+<gubunCn>光州</gubunCn>
+<gubunEn>Gwangju</gubunEn>
+<incDec>171</incDec>
+<localOccCnt>167</localOccCnt>
+<overFlowCnt>4</overFlowCnt>
+<qurRate>37306</qurRate>
+<seq>17856</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.372</createDt>
+<deathCnt>1407</deathCnt>
+<defCnt>1083934</defCnt>
+<gubun>인천</gubun>
+<gubunCn>仁川</gubunCn>
+<gubunEn>Incheon</gubunEn>
+<incDec>475</incDec>
+<localOccCnt>436</localOccCnt>
+<overFlowCnt>39</overFlowCnt>
+<qurRate>36764</qurRate>
+<seq>17855</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.372</createDt>
+<deathCnt>1346</deathCnt>
+<defCnt>773119</defCnt>
+<gubun>대구</gubun>
+<gubunCn>大邱</gubunCn>
+<gubunEn>Daegu</gubunEn>
+<incDec>423</incDec>
+<localOccCnt>414</localOccCnt>
+<overFlowCnt>9</overFlowCnt>
+<qurRate>32410</qurRate>
+<seq>17854</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.372</createDt>
+<deathCnt>2180</deathCnt>
+<defCnt>1107113</defCnt>
+<gubun>부산</gubun>
+<gubunCn>釜山</gubunCn>
+<gubunEn>Busan</gubunEn>
+<incDec>586</incDec>
+<localOccCnt>586</localOccCnt>
+<overFlowCnt>0</overFlowCnt>
+<qurRate>33044</qurRate>
+<seq>17853</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.372</createDt>
+<deathCnt>4891</deathCnt>
+<defCnt>3668271</defCnt>
+<gubun>서울</gubun>
+<gubunCn>首尔</gubunCn>
+<gubunEn>Seoul</gubunEn>
+<incDec>2340</incDec>
+<localOccCnt>2333</localOccCnt>
+<overFlowCnt>7</overFlowCnt>
+<qurRate>38575</qurRate>
+<seq>17852</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+<item>
+<createDt>2022-07-01 08:51:35.371</createDt>
+<deathCnt>24555</deathCnt>
+<defCnt>18368857</defCnt>
+<gubun>합계</gubun>
+<gubunCn>合计</gubunCn>
+<gubunEn>Total</gubunEn>
+<incDec>9528</incDec>
+<localOccCnt>9382</localOccCnt>
+<overFlowCnt>146</overFlowCnt>
+<qurRate>35572</qurRate>
+<seq>17851</seq>
+<stdDay>2022년 07월 01일 00시</stdDay>
+<updateDt>null</updateDt>
+</item>
+</items>
+<numOfRows>10</numOfRows>
+<pageNo>1</pageNo>
+<totalCount>475</totalCount>
+</body>
+</response>

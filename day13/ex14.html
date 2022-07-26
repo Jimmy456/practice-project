@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav > ul {
+            display: flex;
+            list-style: none;
+            justify-content: space-around;
+            align-items: center;
+            background-color: lightskyblue;
+            font-weight: bold;
+            font-size: 20px;
+            height: 75px;
+        }
+        nav > ul > li {
+            cursor: pointer;
+        }
+        div#root {
+            border: 3px solid black;
+            padding: 10px;
+        }
+        div#root > div {
+            height: 300px;
+            display: none;
+        }
+        div#root > div.selected {
+            display: block;
+            overflow-x: hidden; /* x축(가로) 스크롤바 숨김 (범위를 벗어나면 보이지 않음) */
+            overflow-y: auto;   /* y축(세로) 스크롤바는 내용이 넘치면 나타남 */
+        }
+        nav > ul > li.selected {
+            background-color: white;
+        }
+        div#root > div > div.item {
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #dadada;
+            cursor: pointer;
+        }
+        div#root > div.select > div.item:hover {
+            background-color: #f5f6f7;
+        }
+    </style>
+</head>
+<body>
+
+    <script>
+        // 1) 함수 정의만 하는 영역
+        function liMenuClickHandler(event) {
+            liArray.forEach(li => li.classList.remove('selected'))
+            event.target.classList.add('selected')
+            
+            const index = liArray.indexOf(event.target)
+
+            divArray.forEach(div => div.classList.remove('selected'))
+            divArray[index].classList.add('selected')
+        }
+    
+        async function selectAll() {
+            const url = 'http://192.168.0.200:8080/day13/kyochon'
+            const menuList = await fetch(url).then(resp => resp.json())
+            return menuList
+        }
+    
+        function selectHandler(event) {
+            const menu = selectAll()
+            menu.then(arr => {
+                const div = document.querySelector('div.select')
+                div.innerHTML = ''
+                arr.forEach(dto => {
+                    const item = document.createElement('div')
+                    item.className = 'item'
+                    item.addEventListener('click', itemClickHandler)
+                    for(key in dto) {
+                        item.innerHTML += `<div class="${key}">${dto[key]}</div>`
+                    }
+                    div.appendChild(item)
+                })
+            })
+        }
+    
+        function itemClickHandler(event) {
+            let target = event.target
+            while(target.classList.contains('item') == false) {
+                target = target.parentNode
+            }
+            const index = target.querySelector('.idx').innerText
+            alert(index)
+        }
+    
+        function itemDeleteHandler(event) {
+            let target = event.target
+            while(target.classList.contains('item') == false) {
+                target = target.parentNode
+            }
+            const idx = target.querySelector('.idx').innerText
+            const flag = confirm(idx + '번 메뉴를 삭제하시겠습니까?')
+            if(flag == false) {
+                return
+            }
+            const url = 'http://localhost:8080/day13/kyochon/' + idx
+            const opt = {
+                method: 'DELETE'
+            }
+            fetch(url, opt)
+            .then(resp => resp.text())
+            .then(text => {
+                if(text != 0) {
+                    alert('삭제 성공')
+                    // location.reload(true)   // 새로고침, 서버에서 새로 불러옴
+                    location.reload(false)  // 새로고침, 클라이언트 캐시에서 불러옴
+                }
+            })
+        }
+
+        function deleteHandler(event) {
+            const menu = selectAll()
+            const deleteDiv = document.querySelector('div.delete')
+            menu.then(arr => {
+                deleteDiv.innerHTML = ''
+                arr.forEach(dto => {
+                    const item = document.createElement('div')
+                    item.className = 'item'
+                    item.addEventListener('click', itemDeleteHandler)
+                    item.innerHTML += `<div class="idx">${dto.idx}</div>`
+                    item.innerHTML += `<div class="name">${dto.name}</div>`
+                    item.innerHTML += `<div class="price">${dto.price}</div>`
+                    deleteDiv.appendChild(item)
+                })
+            })
+        }
+    
+    </script>
+
+    <nav>
+        <ul>
+            <li class="select selected">select</li>
+            <li class="insert">insert</li>
+            <li class="update">update</li>
+            <li class="delete">delete</li>
+        </ul>
+    </nav>
+
+    <div id="root">
+        <div class="select selected">
+            
+        </div>
+        <div class="insert">
+            <h3>메뉴 추가</h3>
+            <form id="insertForm" 
+                  method="POST" 
+                  action="http://localhost:8080/day13/kyochon">
+                <p><input type="text" name="name" placeholder="이름"></p>
+                <p><input type="number" name="price" placeholder="가격"></p>
+                <p><input type="text" name="category" placeholder="카테고리"></p>
+                <p><textarea name="memo" placeholder="메모"></textarea></p>
+                <p><input type="submit"></p>
+            </form>
+        </div>
+        <div class="update">
+            
+        </div>
+        <div class="delete">
+            
+        </div>
+    </div>
+    <script>
+        function insertHandler(event) {
+            event.preventDefault()
+            console.log('폼 제출 !!')
+            // fetch(url, opt)
+            // const opt = {
+            //     method: 'POST',
+            //     headers: {
+            //         dto: JSON.stringify(ob)
+            //     },
+            // }
+        }
+    </script>
+
+    <script>
+        // 2) 문서 요소를 불러오는 영역
+        const liArray = Array.from(document.querySelectorAll('nav > ul > li'))
+        const divArray = Array.from(document.querySelectorAll('div#root > div'))
+        const insertForm = document.getElementById('insertForm')
+
+        // 3) 이벤트 연결
+        liArray.forEach(li => li.addEventListener('click', liMenuClickHandler))
+        liArray[0].addEventListener('click', selectHandler)
+        liArray[3].addEventListener('click', deleteHandler)
+        window.addEventListener('load', selectHandler)
+        insertForm.addEventListener('submit', insertHandler)
+    </script>
+    
+</body>
+</html>
